@@ -1,1 +1,1 @@
-﻿![](./clip.mp4)
+﻿![](/assets/clip.gif)
